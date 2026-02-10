@@ -128,4 +128,4 @@ El programa incluye pruebas automáticas para validar el correcto funcionamiento
 |----------|-----------|
 | `0011 + 0101` | `1000` |
 | `0111 + 0001` | `1000` |
-| `0110 - 0010` |
+| `0110 - 0010` | `0100`
