@@ -66,4 +66,3 @@ if __name__ == "__main__":
     except:
         print("Error: Ingrese solo valores binarios de 4 bits.")
 
-```python
