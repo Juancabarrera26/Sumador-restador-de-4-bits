@@ -129,3 +129,7 @@ El programa incluye pruebas automáticas para validar el correcto funcionamiento
 | `0011 + 0101` | `1000` |
 | `0111 + 0001` | `1000` |
 | `0110 - 0010` | `0100`
+
+## Evidencia
+<img width="686" height="260" alt="Captura de pantalla 2026-02-09 231738" src="https://github.com/user-attachments/assets/c908ccae-56be-4866-996c-439848a408a2" />
+
